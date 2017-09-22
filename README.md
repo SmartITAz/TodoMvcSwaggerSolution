@@ -5,6 +5,11 @@ Visual Studio 2017, ASP.NET Core 2.0
 
 By John kocer- SmartIT
 
+How to Use Swagger with ASP.NET Core Web APIs. 
+Visual Studio 2017, ASP.NET Core 2.0, By John Kocer- SmartIT
+Tags: Swagger, Visual Studio 2017,  ASP.NET Core, Web API, API Test, Do-to List, SmartIT 
+
+
 In this session, we will learn 
 
 -How to consume Todo inmemory database using TodoRepository.
